@@ -1,0 +1,6 @@
+addons
+enterprise-18.0
+.db_log_pid
+.web_log_pid
+db_logs.txt
+odoo_logs.txt
